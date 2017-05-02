@@ -6,7 +6,7 @@ In April 2017 we analysed voting data to [find out how big a role on-voters coul
 
 ## Get the data
 
-* Analysis: [who would win if non-voters voted for 'None of the above' party]()
+* Analysis: [who would win if non-voters voted for 'None of the above' party](https://github.com/BBC-Data-Unit/non-voters/blob/master/nonvoters_analysis.xlsx)
 
 ## Visualisation and interactivity
 
