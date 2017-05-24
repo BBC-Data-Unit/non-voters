@@ -19,3 +19,4 @@ In April 2017 we analysed voting data to [find out how big a role on-voters coul
 ## Related repos
 
 * May 2017: [Election 2017: People turn to Google ahead of election](https://github.com/BBC-Data-Unit/election17-google)
+* May 2017: [Election 2017: Places with the lowest voter registration](https://github.com/BBC-Data-Unit/election17-voter-registration)
